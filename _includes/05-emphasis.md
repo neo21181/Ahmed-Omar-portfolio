@@ -1,0 +1,3 @@
+- Enthusiastic
+- *fun*
+- **persistent**

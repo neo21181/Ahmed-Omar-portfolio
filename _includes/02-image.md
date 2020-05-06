@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image representing penpytech logo](https://i1.wp.com/www.penpytech.com/wp-content/uploads/2020/04/logo1x1_transparentBG.png)

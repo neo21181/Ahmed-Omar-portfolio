@@ -1,1 +1,1 @@
-![Image representing penpytech logo](https://i1.wp.com/www.penpytech.com/wp-content/uploads/2020/04/logo1x1_transparentBG.png)
+![My personal Profile Picture](https://avatars0.githubusercontent.com/u/24505715?s=460&u=152420b1309fe161dca7d12b5765a1fcd1fde4ef&v=4)

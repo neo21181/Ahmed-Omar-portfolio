@@ -1,0 +1,16 @@
+---
+---
+@import "{{ site.theme }}";
+
+h1.withsub{
+	border-bottom: none;
+	padding-bottom: 2 px;
+}
+h2.sub{
+	margin-top: 10px;
+	font-style: italic;
+}
+h3.sub{
+	border-bottom: none;
+	font-style: italic;
+}

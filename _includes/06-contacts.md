@@ -4,9 +4,10 @@
 [<img src="assets/Image/Linkedin.png" alt="Linkedin Icon" /> LinkedIn profile](https://www.linkedin.com/in/ahmedomarelhamidy)
 
 [<img src="assets/Image/GitHub.png" alt="GitHub Icon" /> GitHub profile](https://github.com/neo21181)
-[<img src="assets/Image/Youtube.png" alt="youtube Icon" /> personal Youtube](https://www.youtube.com/user/neo21181)
+[<img src="assets/Image/Youtube.png" alt="youtube Icon" /> Personal Youtube](https://www.youtube.com/user/neo21181)
 
-[<img src="assets/Image/Twitter.png" alt="twitter Icon" /> twitter profile](https://twitter.com/neo21181)
+[<img src="assets/Image/Twitter.png" alt="Twitter Icon" /> Twitter profile](https://twitter.com/neo21181)
+[<img src="assets/Image/upwork.png" alt="Upwork Icon" /> Upwork profile](https://www.upwork.com/o/profiles/users/~01e5529d01751cb02e/)
 
 ## Penpy Technology Profiles
 

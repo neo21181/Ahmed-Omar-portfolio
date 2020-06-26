@@ -6,5 +6,5 @@
 ## Characteristics
 
 - Enthusiastic
-- *fun*
-- **persistent**
+- *Fun*
+- **Persistent**

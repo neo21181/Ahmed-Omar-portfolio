@@ -3,24 +3,24 @@
 {:.sub}
 ### Web projects
 
-- ebill revamp 
-- ebill rebranding
+- EBill revamp 
+- EBill rebranding
 
 {:.sub}
 ### Integration projects
 
 - Fixed integration
-- voucher integration
-- data integration
-- billing upgrade integration
+- Voucher integration
+- Data integration
+- Billing upgrade integration
 
 {:.sub}
 ### Development and testing projects
 
-- free units calculation and compensation scripts
-- customer set redistribution
-- sales reports
-- invoice redesign and implementation
+- Free units calculation and compensation scripts
+- Customer set redistribution
+- Sales reports
+- Invoice redesign and implementation
 
 {:.sub}
 ### Video/Audio projects

@@ -1,7 +1,7 @@
 ## Skills
 
-- project management
-- solution architecture and Design
+- Project management
+- Solution architecture and Design
 - Business analysis
 
 ## Tools and languages
@@ -9,11 +9,11 @@
 - C#
 - Python
 	- Django
-- shell scripting
+- Shell scripting
 - Video/Audio editing
 - PHP
 	- Laravel
 - Java
 - Oracle SQL, PL/SQL, MS SQL Server, MySQL
-- nunit, pytest
-- webMethods Integration server 10.5
+- Nunit, Pytest
+- WebMethods Integration server 10.5

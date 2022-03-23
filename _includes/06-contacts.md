@@ -22,7 +22,6 @@
 
 ## Japanese 4 Arab club
 
-[<img src="http://japanese.4arab.club/favicon.ico" alt="japanese 4arab club Icon" width="32" height="32" /> japanese 4arab club webpage](http://japanese.4arab.club/)
 [<img src="assets/Image/Instagram.png" alt="Instagram Icon" /> Instagram profile](https://www.instagram.com/jp4arab/)
 
 [<img src="assets/Image/Facebook.png" alt="Facebook Icon" /> Japanese 4arab club on Facebook](https://www.facebook.com/jp4arab)

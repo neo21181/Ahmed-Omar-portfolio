@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<meta name="google-site-verification" content="IcIaYp-JxgAchRPBZbKRAbmeubEj9bhVp4TFjlh58xM" />
 
 {% include 01-name.md %}
 
